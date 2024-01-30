@@ -1,0 +1,52 @@
+-step 0 :  -data
+ 
+-step 1 :  -Gives all data of 1st inning   :datateam1-1-1
+           -Gives all data of 2nd inning   :datateam2-1-2
+           -Shows toss detail              :toss-1-3
+           -gives umpires names            :umpires-1-4
+	   -give a name of statdium                   :venue-1-5
+	   -gives the name of city where match happens:city-1-6
+           -gives the dates of match:dates-1-7
+           -gives the name of playing teams :teams-1-8
+           -gives the type  of match detail:type-1-9
+           -gives the number of max over can done in per inning:over-1-10
+           -shows that mtach is of male,female or other :gender-1-11 
+           -gives all data with line number :datalinenumber-1-12
+
+-step 2 :  -gives the names of bolwers of team 1 :bolteam1-1-1
+           -gives the names of bolwers of team 2 :bolteam2-2-2
+	   -gives the names of batsmen of team 1 :batteam1-1-3
+	   -gives the names of batsmen of team 2 :batteam2-2-4
+	   -gives the names of fielders of team 1 :fieldteam1-1-5 
+	   -gives the names of fielders of team 2 :fieldteam2-2-6  
+	   -gives the names of non striker of team 1 :nonstrteam1-1-7  
+	   -gives the names of non striker of team 2 :nonstrteam2-2-8  
+	   -gives the name of 1st innning batting and bolwing players :bbteam1-1-9
+	   -gives the name of 2nd innning batting and bolwing players :bbteam2-2-10
+           -gives extra runs given by team 1 :extra1-1-13
+           -gives extra runs given by team 2 :extra2-2-14
+           -gives all players of team 1 :team1-1-15
+           -gives all players of team 2 :team2-2-16
+           -gives all runs in team 1 in sequence :runst1-1-17
+           -gives all runs in team 2 in sequence :runst2-2-18
+           -gives data of ininng 1 with line numbers :t1dataline-1-19
+           -gives data of ininng 2 with line numbers :t2dataline-2-20
+           -gives the list of caught in 1st inning :ing1caught-1-21
+           -gives the list of caught in 2nd inning :ing2caught-2-22
+           -gives the list of stumped in 1st inning :ing2stumped-1-23
+           -gives the list of stumped in 2nd inning :ing2stumped-2-24
+           -gives the list of bowled in 1st inning :ing2bowled-1-25
+           -gives the list of bowled in 2nd inning :ing2bowled-2-26
+
+-step 3 :  -gives names of total players of team 1 :allplayerst1-1
+           -gives names of total players of team 2 :allplayerst2-2
+           -gives list of wickets gone with line number in 1st inning :totalwickett1-3
+           -gives list of wickets gone with line number in 2nd inning :totalwickett2-4
+           -gives the over number in sequence of inning 1 with line number :seqovering1-5
+           -gives the over number in sequence of ininng 2 with line number :seqovering2-6
+           -gives the all names of players in match played :allplayers-7
+           -gives the list of over in sequence with ball number of inning 1 :ing1over-ball-8 
+           -gives the list of over in sequence with ball number of inning 2 :ing2over-ball-9 
+
+-step 4 :  -gives total number players in match played :totalplayers-1
+           -gives total number of wicket in 1st inning :totalwicketing1-2
